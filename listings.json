@@ -1,0 +1,18 @@
+[
+    {
+        "material_title": "Clean Plastic bottle",
+        "category": "Organic Waste",
+        "quantity": 1,
+        "unit": "kg",
+        "price_per_unit": 2.0000000000000004,
+        "location": "Mzn",
+        "condition": "Fair",
+        "description": "good",
+        "uploaded_files": [],
+        "contact_name": "xyz",
+        "contact_email": "xyz@gmail.com",
+        "contact_phone": "123",
+        "preferred_contact": "Both",
+        "listing_time": "2025-01-23 02:22:59"
+    }
+]
